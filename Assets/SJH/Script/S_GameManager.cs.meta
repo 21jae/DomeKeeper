@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/102/Script/FireTower.cs.meta
+guid: 4c92d9f47f3dba4419e626a0fb42b910
+========
+guid: 20f6ac59fccb4414fb330d409b0cb163
+>>>>>>>> c967bce1ebb7793d023fc064a85a9c8b9f821d63:Assets/SJH/Script/S_GameManager.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

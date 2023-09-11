@@ -1,0 +1,1816 @@
+fileFormatVersion: 2
+guid: fbff668fcc2835242b18bdf1608f1761
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cf84e0d354c9e47bdbec6960b9fdf1
+      internalID: 270140498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 200
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10543b46fc7411f40a51d10cf4c034e9
+      internalID: 1818640893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 200
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a541a415ebf87dd4c9d79dc5dbf42259
+      internalID: -935980387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 200
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb848c166c6b009419f3f842945a0044
+      internalID: 447070718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 200
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c697fad75359bc4e8de06715daa6ea1
+      internalID: 1454908613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 200
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e74a3edda22e541ac65ca395111874
+      internalID: -1831004629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 200
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fa577d8a350a6429db962e7d39a0a6
+      internalID: 150165455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 200
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2516132d49d444e4d824aad2600864ff
+      internalID: 799186857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 200
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4465902d2f23ac843a61d5cc67f6db1e
+      internalID: 1660217471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631c5e99a69a9af4897c72d2db216e71
+      internalID: 650727953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 175
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b5fe1e85118344c87f1c3bead3f7d0
+      internalID: 1777821581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 175
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a169c06cad44d324ca0d204f1423c834
+      internalID: 1960888117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 175
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad9e640efb5bfb4384180548ef67da8
+      internalID: 857477343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_13
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 175
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83659941e148eb743821dabfaefcbebc
+      internalID: 1950783555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 175
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc84e1442b08d147aca508826ccbc95
+      internalID: -1675343725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 175
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be5a7fee0b37164899dd191adaffca5
+      internalID: -1903067692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 175
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8701d97d5d8df3848b9d3d92535ab9f0
+      internalID: -538802520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 175
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792609d3a4553b54e9f9c49cdf3ebab9
+      internalID: 1105950506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c94fcfce490c642bbf0f6f86be0d48
+      internalID: 1223014891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 150
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5270bd3d1408d947aa1efdbc3702c81
+      internalID: -1571143131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 150
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd27bc04a83900842b51bfc42fc34afe
+      internalID: -841121314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 150
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8711b095fe4b26444b46f6e88341e6ca
+      internalID: -1752893941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_22
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 150
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4c24c2302e3204fb42b060aee6844b
+      internalID: -1084961276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 150
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140052487a7ed3c43934fe12e1a9134b
+      internalID: 1371391907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_24
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 150
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1842bb60e1a1df4fae68d47764be7b3
+      internalID: 1471940230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_25
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 150
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa695eefbd8f1146972394cecad320b
+      internalID: -1145323568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_26
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 150
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3c627093bea954b823d41f455b8cd3
+      internalID: -275688726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efcc867f765f0c4b96e53ab48daa7a7
+      internalID: 761620157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_28
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 125
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d5cae6f099fec4e92dedda131a2c49
+      internalID: -752365086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_29
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 125
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105ccc689ae54664f8eac8c37092f971
+      internalID: -927768808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_30
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 125
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4f76946738f2a4b8f798f8d79d2bb1
+      internalID: 240375060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_31
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 125
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a70ca052b9f77f408602301c3604696
+      internalID: 55288951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_32
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 125
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d274a56097a01aa4f82f818650a8d45a
+      internalID: -2000367882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_33
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 125
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97129a583e515084e834c8ca41c7755d
+      internalID: -1191202284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 125
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca45a79c496f164283bd0cb3324ed0e
+      internalID: -9561761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_35
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 125
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cf1e208f07559438681cb992c175ab
+      internalID: -905729602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3d9ee10407c784583b71b220ff7211
+      internalID: -65322256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_37
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7455a7736fd5e7f409b2f4b7d83ef738
+      internalID: 2112054088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_38
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e41b9706fa6fc4590c0e9a6b30e45d
+      internalID: -128662736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_39
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb8bfdddb79226419c892e1572dc3ba
+      internalID: 1031669210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_40
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18d89fe67072ec458ca095925ead8b5
+      internalID: -209530653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_41
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d65bd99f5691e9468fa36998051abdb
+      internalID: -2124199293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_42
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2b6b8c22728e94db30c3b7a68f856a
+      internalID: 1537089895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_43
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc3386ae51ae654495e7c39177caf6a
+      internalID: 940614726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_44
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489477ac4392be444b65102db0c983c3
+      internalID: -551709521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3d6de2bcfcb254db103bc8f91760a5
+      internalID: -22009858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_46
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 75
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04200546d59d6b6468add405309f0ea7
+      internalID: 1645654000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_47
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 75
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18068c7de12a079419acde8b0555fb6b
+      internalID: -1935056642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_48
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 75
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb585e8453533fc49bf616c1a4b9234f
+      internalID: 2074413633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_49
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 75
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a44b57261bedc4784881a35bc176aa
+      internalID: 2028082887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_50
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 75
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2e65c9cca152740a726460b8eb62ea
+      internalID: -1898504469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_51
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 75
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b9492aa1d5fbd44acfb01849efb872
+      internalID: -577237662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_52
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 75
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f2f5741fcb1bc4590ffa716c725b5b
+      internalID: 1176724103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_53
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 75
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ead90e5d1f6b96439f1aab2549f57e2
+      internalID: 1577745282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40d6e2100640b5438e29d45e70b2658
+      internalID: -2046360962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_55
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 50
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a04872479e2f549a952541f1f266fd
+      internalID: 1413540200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_56
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 50
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c22bbef0ed94924e986959ab165a2aa
+      internalID: -127562807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_57
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 50
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f309dfa34b2a136498cafcfb6c0a3a8f
+      internalID: 1985800428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_58
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 50
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12223ad24e51f844bac6d3480d0b3940
+      internalID: 333923670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_59
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 50
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf009199f31ff34ca91c377fa941206
+      internalID: -957888783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_60
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 50
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd270cb2cb29a854d8e4898dba091dc1
+      internalID: 476469373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_61
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 50
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024c4a69b032cc64ca2882191bef5280
+      internalID: -1959206250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_62
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 50
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4124ede7f54ed429c7574dd754f5da
+      internalID: -1578319761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13f44a1fbc72bd4faf0a863b41e9a06
+      internalID: -377134583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_64
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 25
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f46a0eadf5d384aa9eff058e731feb
+      internalID: -1762048533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_65
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 25
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9ae734d1a7e7d4991b4be01503019b
+      internalID: 1031450376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_66
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 25
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269e2e55d748cfb4dba6d4ce6409c987
+      internalID: 1356278760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_67
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 25
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d711844abcac614596b89e085e45422
+      internalID: 1852795221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_68
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 25
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24accb8ff2b59c84d96b6b5d47b4d38b
+      internalID: -31517560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_69
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 25
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebac2c8fa8c8a7e4489e3d51a9936bf5
+      internalID: 1503077314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_70
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 25
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3992c3c51df7b444780b42d0b58288ce
+      internalID: 2136124302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_71
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 25
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed58cddcbeb9cc84aac9ba95348e9cae
+      internalID: 243022404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b498ef0f0e07cf40a540dad29a3a7e9
+      internalID: 1273812936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_73
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c73aaaea26ef643809302252c00395
+      internalID: 832235936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_color_74
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fe82548e40bbc4fbeae31ae166c0fd
+      internalID: -1123011440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      newprojectilesheettest_color_0: 270140498
+      newprojectilesheettest_color_1: 1818640893
+      newprojectilesheettest_color_10: 1777821581
+      newprojectilesheettest_color_11: 1960888117
+      newprojectilesheettest_color_12: 857477343
+      newprojectilesheettest_color_13: 1950783555
+      newprojectilesheettest_color_14: -1675343725
+      newprojectilesheettest_color_15: -1903067692
+      newprojectilesheettest_color_16: -538802520
+      newprojectilesheettest_color_17: 1105950506
+      newprojectilesheettest_color_18: 1223014891
+      newprojectilesheettest_color_19: -1571143131
+      newprojectilesheettest_color_2: -935980387
+      newprojectilesheettest_color_20: -841121314
+      newprojectilesheettest_color_21: -1752893941
+      newprojectilesheettest_color_22: -1084961276
+      newprojectilesheettest_color_23: 1371391907
+      newprojectilesheettest_color_24: 1471940230
+      newprojectilesheettest_color_25: -1145323568
+      newprojectilesheettest_color_26: -275688726
+      newprojectilesheettest_color_27: 761620157
+      newprojectilesheettest_color_28: -752365086
+      newprojectilesheettest_color_29: -927768808
+      newprojectilesheettest_color_3: 447070718
+      newprojectilesheettest_color_30: 240375060
+      newprojectilesheettest_color_31: 55288951
+      newprojectilesheettest_color_32: -2000367882
+      newprojectilesheettest_color_33: -1191202284
+      newprojectilesheettest_color_34: -9561761
+      newprojectilesheettest_color_35: -905729602
+      newprojectilesheettest_color_36: -65322256
+      newprojectilesheettest_color_37: 2112054088
+      newprojectilesheettest_color_38: -128662736
+      newprojectilesheettest_color_39: 1031669210
+      newprojectilesheettest_color_4: 1454908613
+      newprojectilesheettest_color_40: -209530653
+      newprojectilesheettest_color_41: -2124199293
+      newprojectilesheettest_color_42: 1537089895
+      newprojectilesheettest_color_43: 940614726
+      newprojectilesheettest_color_44: -551709521
+      newprojectilesheettest_color_45: -22009858
+      newprojectilesheettest_color_46: 1645654000
+      newprojectilesheettest_color_47: -1935056642
+      newprojectilesheettest_color_48: 2074413633
+      newprojectilesheettest_color_49: 2028082887
+      newprojectilesheettest_color_5: -1831004629
+      newprojectilesheettest_color_50: -1898504469
+      newprojectilesheettest_color_51: -577237662
+      newprojectilesheettest_color_52: 1176724103
+      newprojectilesheettest_color_53: 1577745282
+      newprojectilesheettest_color_54: -2046360962
+      newprojectilesheettest_color_55: 1413540200
+      newprojectilesheettest_color_56: -127562807
+      newprojectilesheettest_color_57: 1985800428
+      newprojectilesheettest_color_58: 333923670
+      newprojectilesheettest_color_59: -957888783
+      newprojectilesheettest_color_6: 150165455
+      newprojectilesheettest_color_60: 476469373
+      newprojectilesheettest_color_61: -1959206250
+      newprojectilesheettest_color_62: -1578319761
+      newprojectilesheettest_color_63: -377134583
+      newprojectilesheettest_color_64: -1762048533
+      newprojectilesheettest_color_65: 1031450376
+      newprojectilesheettest_color_66: 1356278760
+      newprojectilesheettest_color_67: 1852795221
+      newprojectilesheettest_color_68: -31517560
+      newprojectilesheettest_color_69: 1503077314
+      newprojectilesheettest_color_7: 799186857
+      newprojectilesheettest_color_70: 2136124302
+      newprojectilesheettest_color_71: 243022404
+      newprojectilesheettest_color_72: 1273812936
+      newprojectilesheettest_color_73: 832235936
+      newprojectilesheettest_color_74: -1123011440
+      newprojectilesheettest_color_8: 1660217471
+      newprojectilesheettest_color_9: 650727953
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

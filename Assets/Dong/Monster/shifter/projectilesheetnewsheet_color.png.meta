@@ -1,0 +1,1772 @@
+fileFormatVersion: 2
+guid: 8ab64b446d875544296881d604a3ab27
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d660299ab35a2944b09ca640c6de01e
+      internalID: 1105051498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 560
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914e17ef111b5ae4d9daa11f68eecac4
+      internalID: 1606406787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 560
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50e81f4b68f68d4597c98b8b3419df0
+      internalID: -571483128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 560
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb750ec95d0d3be40bb8f1a8b74af20d
+      internalID: -1557148931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 560
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de791c75da4190c4883ae55755828340
+      internalID: 1554197753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 560
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a97fa2af0ccaa74fb2e797f6f45f9b3
+      internalID: -908636992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 560
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e11eb9bd093ef54b961f858e228fade
+      internalID: -1553552766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_7
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 560
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fa8b1310895de4cae575768a3544ba
+      internalID: -297471616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_8
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 560
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd4d72278ff02349a0f97cecb396ca3
+      internalID: 1068972749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2206c669d97c0724882997088e5c8dbe
+      internalID: 1704960063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 490
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef654940be88bc4e99af1b694f1a114
+      internalID: -9065473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 490
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1317a86be8fae459c1aca85eb5f74c
+      internalID: -1062936222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_12
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 490
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4280250f010187a49a6bb8d8d979f5b4
+      internalID: 1977783204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 490
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1853125db54e8e49a0fefb60ad94412
+      internalID: 746947095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_14
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 490
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183d36e0dbb16354eb44d15fcbcc7702
+      internalID: -2099178422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_15
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 490
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aacf80e289192478c274218a066ecb
+      internalID: -1474103568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_16
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 490
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbbaf06360876945860458c88c923f9
+      internalID: 1540538094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_17
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 490
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2d27ce5db63b84f94df2dea165df27
+      internalID: -1495745881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2649ae1e174169d4bbda5249a53900ae
+      internalID: 777750782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 420
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfe0dceba4f96549bf3ec8509915cf7
+      internalID: -986013534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 420
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b924b00757ab89d45bb2de3ad943b6be
+      internalID: -2111027018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_21
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 420
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca82647aec1ce394f9ec5b2ab3f20f9d
+      internalID: 178206698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_22
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 420
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e93e8a394431049b140191137f7375
+      internalID: 1393101456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_23
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 420
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea23a34ea8f26a540a8dd78d2b5408e8
+      internalID: 2015264046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_24
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 420
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0129eda83146a484e815297e4ea15322
+      internalID: 1810892977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_25
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 420
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fb3791636e39c4884cb1a2c50f8f70
+      internalID: -1734351000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92137fc89ebfe4d4d9345784548342cc
+      internalID: -1966259112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 350
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ce8efaab42d674eb6d4aa9cefdb0b0
+      internalID: 1208666843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_28
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 350
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4817396264b4648912a2f5b2113da9
+      internalID: 1480487700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 350
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88481ad14a3fd9c429aecded48568bf2
+      internalID: 1895264626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_30
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 350
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3def0a2458a5b294981b04afbb11c5ac
+      internalID: 145830044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_31
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 350
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbc447393fe3ce47bb8c27d6eb5c271
+      internalID: -992028339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_32
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 350
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667f87cbf318f4041b34ec0c669344ea
+      internalID: -848567398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_33
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 350
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee588f1560b47e48a0f5d55fe8378b0
+      internalID: 1620346799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_34
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 350
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064a189ab052ffb42af3ad7fcc89ff42
+      internalID: 1605699365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bced51cd7b658ec4aa88f41fc1166411
+      internalID: 250119446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_36
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 280
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa974bd44cd64f0479ceddd5b147b133
+      internalID: -1555132930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_37
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 280
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ceeb3202c9d8947b28a1a07e68769f
+      internalID: 2086988711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_38
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 280
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563536d7d7a99a443b39fb4fc62a22e7
+      internalID: 2043779583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_39
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 280
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27bfa8a81ca9a244a975db103d58a43
+      internalID: -153456939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_40
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 280
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f56cadd6960f547834cabe10e876d4
+      internalID: -165149016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_41
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 280
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c716a7b3220c27a4d9213ab16e769cb6
+      internalID: 1162238441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_42
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 280
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e40429d892f9a54fb4db63590c3d5df
+      internalID: 1540741490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_43
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 280
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51b2479e56dfc24eb9f1a282a8b39e9
+      internalID: -1635509661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2474bac2d01400439f9bce372c699f8
+      internalID: 1692893920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_45
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 210
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02136b88ba84b38499d115c90b8c940d
+      internalID: 2008967726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 210
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9205553df109a904aa5caf47e1b3c51a
+      internalID: 638040982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 210
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115e771a5ccfcc1439fa898e43acf6d3
+      internalID: 228924827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_48
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 210
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad80672db271a894bae9dc315f423361
+      internalID: 890623619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_49
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 210
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2757d7fb1d7a61f47b36c7d68443613e
+      internalID: 674763008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_50
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 210
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717ea9283b84f8a47a12e3dc6e9c9b0c
+      internalID: -1518978699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_51
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 210
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3afc6ef53ba5334a81988079b55a4f7
+      internalID: 1570188000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_52
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 210
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a06fd5aaa18ab04d8f695a89fa47b9f
+      internalID: -1802089670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14d84581175a0543bda21d93cd66f57
+      internalID: 474575995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_54
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 140
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa593eca18c0dc47aae21162c0f9cfb
+      internalID: 196693010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_55
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 140
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83426c4e1b15db64d95dae45c64c05a7
+      internalID: 1414223812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_56
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 140
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cb6ecb3221f4d419f59b791d47c0b9
+      internalID: -183830972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_57
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 140
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affac4d953b9fea41a764b646572a860
+      internalID: 1903315940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_58
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 140
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620d7b6132cee0049b2f59ecc985ff55
+      internalID: -1263511156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_59
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 140
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6f14f769be326419b72b1e434462a0
+      internalID: 1509932816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_60
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 140
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f2a644d58294345bc44a5dfadcf72e
+      internalID: -1504288615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_61
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 140
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caeb355b4c2d984c9879a97a503df40
+      internalID: 432926359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb47ea99c86add459eba6c84ea261aa
+      internalID: 1286247786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_63
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 70
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade8fe4276242a3408abdf074b4ec13b
+      internalID: 1748122121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_64
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 70
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd6f35dcc58da04cb1ce2b82a977d76
+      internalID: -1894035544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_65
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 70
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767fa19de6d5da642a136ed6596453db
+      internalID: 1753991746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_66
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 70
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c2fd1a884559f4ba65534e4dd77624
+      internalID: 546458991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_67
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 70
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1326ec1a9ac184ebdbd5ffb44cc01c
+      internalID: 1486347754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_68
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 70
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d12c4c6697d8143a421545be7a68f9
+      internalID: 141760027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_69
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 70
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1173a7ebcc5f117418a8278d4b34363c
+      internalID: 2011054872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_70
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 70
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249d8d28e2e6b9747a09d68ad280519f
+      internalID: -625718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e2e60da618c024380e2dee02b89929
+      internalID: 326820895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectilesheetnewsheet_color_72
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8756326dac09c134da4656f040b2001f
+      internalID: 1797951967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      projectilesheetnewsheet_color_0: 1105051498
+      projectilesheetnewsheet_color_1: 1606406787
+      projectilesheetnewsheet_color_10: -9065473
+      projectilesheetnewsheet_color_11: -1062936222
+      projectilesheetnewsheet_color_12: 1977783204
+      projectilesheetnewsheet_color_13: 746947095
+      projectilesheetnewsheet_color_14: -2099178422
+      projectilesheetnewsheet_color_15: -1474103568
+      projectilesheetnewsheet_color_16: 1540538094
+      projectilesheetnewsheet_color_17: -1495745881
+      projectilesheetnewsheet_color_18: 777750782
+      projectilesheetnewsheet_color_19: -986013534
+      projectilesheetnewsheet_color_2: -571483128
+      projectilesheetnewsheet_color_20: -2111027018
+      projectilesheetnewsheet_color_21: 178206698
+      projectilesheetnewsheet_color_22: 1393101456
+      projectilesheetnewsheet_color_23: 2015264046
+      projectilesheetnewsheet_color_24: 1810892977
+      projectilesheetnewsheet_color_25: -1734351000
+      projectilesheetnewsheet_color_26: -1966259112
+      projectilesheetnewsheet_color_27: 1208666843
+      projectilesheetnewsheet_color_28: 1480487700
+      projectilesheetnewsheet_color_29: 1895264626
+      projectilesheetnewsheet_color_3: -1557148931
+      projectilesheetnewsheet_color_30: 145830044
+      projectilesheetnewsheet_color_31: -992028339
+      projectilesheetnewsheet_color_32: -848567398
+      projectilesheetnewsheet_color_33: 1620346799
+      projectilesheetnewsheet_color_34: 1605699365
+      projectilesheetnewsheet_color_35: 250119446
+      projectilesheetnewsheet_color_36: -1555132930
+      projectilesheetnewsheet_color_37: 2086988711
+      projectilesheetnewsheet_color_38: 2043779583
+      projectilesheetnewsheet_color_39: -153456939
+      projectilesheetnewsheet_color_4: 1554197753
+      projectilesheetnewsheet_color_40: -165149016
+      projectilesheetnewsheet_color_41: 1162238441
+      projectilesheetnewsheet_color_42: 1540741490
+      projectilesheetnewsheet_color_43: -1635509661
+      projectilesheetnewsheet_color_44: 1692893920
+      projectilesheetnewsheet_color_45: 2008967726
+      projectilesheetnewsheet_color_46: 638040982
+      projectilesheetnewsheet_color_47: 228924827
+      projectilesheetnewsheet_color_48: 890623619
+      projectilesheetnewsheet_color_49: 674763008
+      projectilesheetnewsheet_color_5: -908636992
+      projectilesheetnewsheet_color_50: -1518978699
+      projectilesheetnewsheet_color_51: 1570188000
+      projectilesheetnewsheet_color_52: -1802089670
+      projectilesheetnewsheet_color_53: 474575995
+      projectilesheetnewsheet_color_54: 196693010
+      projectilesheetnewsheet_color_55: 1414223812
+      projectilesheetnewsheet_color_56: -183830972
+      projectilesheetnewsheet_color_57: 1903315940
+      projectilesheetnewsheet_color_58: -1263511156
+      projectilesheetnewsheet_color_59: 1509932816
+      projectilesheetnewsheet_color_6: -1553552766
+      projectilesheetnewsheet_color_60: -1504288615
+      projectilesheetnewsheet_color_61: 432926359
+      projectilesheetnewsheet_color_62: 1286247786
+      projectilesheetnewsheet_color_63: 1748122121
+      projectilesheetnewsheet_color_64: -1894035544
+      projectilesheetnewsheet_color_65: 1753991746
+      projectilesheetnewsheet_color_66: 546458991
+      projectilesheetnewsheet_color_67: 1486347754
+      projectilesheetnewsheet_color_68: 141760027
+      projectilesheetnewsheet_color_69: 2011054872
+      projectilesheetnewsheet_color_7: -297471616
+      projectilesheetnewsheet_color_70: -625718
+      projectilesheetnewsheet_color_71: 326820895
+      projectilesheetnewsheet_color_72: 1797951967
+      projectilesheetnewsheet_color_8: 1068972749
+      projectilesheetnewsheet_color_9: 1704960063
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

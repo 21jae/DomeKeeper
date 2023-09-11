@@ -1,0 +1,1816 @@
+fileFormatVersion: 2
+guid: 5529dae6a32b74640923d9a1f3cfe32b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: newprojectilesheettest_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba897c81f0b9694408a524a57f0a03c0
+      internalID: -171977129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 200
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866e7e7e3c81bcc478a475cc4e96281f
+      internalID: 310222220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 200
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb922b31d1ce1054d823b1e2060d2958
+      internalID: -953490945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 200
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19143af69713eb469d5632fb8b0801d
+      internalID: 1458820576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 200
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbf11f5e1998f14ab1d37dc54146922
+      internalID: 2144612224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 200
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5443e704ea3c6e4094eb342ea850103
+      internalID: 961064763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 200
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fea7d337eb616c49a99e89e449e6bc7
+      internalID: 950536996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 200
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d4330e78f44334cb8d4cd67c38868c
+      internalID: -1590438520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 200
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eede2f387b7a979408ccaeb1c34b430a
+      internalID: 1749065717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa817886c6023cf46a97d7a46c688a58
+      internalID: -2045373209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 175
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aed2e276f5ede14bae4908a07f364df
+      internalID: 817672621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 175
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06af9755cc31a1469594a046f773219
+      internalID: -1979054700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 175
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021d310bdc151d04f9028d4ab665ff95
+      internalID: -1068793099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_13
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 175
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58c0f3fe839b534e90f561ac6b598b9
+      internalID: -1990928757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 175
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9032bdfce8ece2347a83fff3d4f26a69
+      internalID: -611876235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 175
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1f856284774284c98764affe5e2e5f
+      internalID: -227608422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 175
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c1b6894280bb9448edcee44199d034
+      internalID: 1684052153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 175
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e6f2177a9c4a04488864a2ce67222f
+      internalID: 435569988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc3cdb324156df4697b2cf383b03f8c
+      internalID: -1917626600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 150
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057ff767e17d3a646b99205841ee73a0
+      internalID: 448094740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 150
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26ca7264f105ba4fab68f0dcfa36a41
+      internalID: -1319890451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 150
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8cd171ea241f141a6e9699a67da07e
+      internalID: -677151337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_22
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 150
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b182f21572d0e42ae1a742d659b6c5
+      internalID: -369440142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 150
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137b7966c6e48284295a01e640265321
+      internalID: -1306414713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_24
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 150
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c318c05eb1a1b5f4c82caa073f85f405
+      internalID: -2045525624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_25
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 150
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f60d3473a408d4b99fe4aba8e17a4b
+      internalID: -578450941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_26
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 150
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069be59babf2e6c4098d0d2de5678748
+      internalID: -180849084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58b5a6ec33d2ae48ab48c2b5f327bb1
+      internalID: 443464813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_28
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 125
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7905f9816d776a4a96efcca7251c85f
+      internalID: 1809249262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_29
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 125
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596850a86bc3e3e4e88ad776d2b97471
+      internalID: 1679561564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_30
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 125
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17530cf990aba6b49bd162abc1a76eb9
+      internalID: -232069659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_31
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 125
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54ffbada04daf04b8682d4c8cc91c0a
+      internalID: 2060999204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_32
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 125
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9a9c3f6fbaeb74091297a64771d016
+      internalID: 253826765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_33
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 125
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191a75269981c4d4da0dc416f539b40a
+      internalID: 414409178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 125
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd4a03c5fdf167418d6c0bcff2ae01b
+      internalID: -640922329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_35
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 125
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dc2294435a4024f82369939e75e43d
+      internalID: -1331027692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ce74f230443844ba00b82cb2ded4d3
+      internalID: 708251977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_37
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fe4548304051b448eb91ca7f15e991
+      internalID: 2123263358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_38
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03920419ed6a0fc4688b5999ce901622
+      internalID: 1402009596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_39
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b52b618579e63498ea3b1ee744fcf6
+      internalID: 1191121733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_40
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5555654af077ef447a7f48e93b900fc5
+      internalID: 1944956254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_41
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e98b6fc2ac898468b210193cacbb82
+      internalID: -1777229532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_42
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368e0a426e7abbf4596d197f0d360460
+      internalID: 1259415880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_43
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617186aaeedac25478d753fcfb054598
+      internalID: -1432297356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_44
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fb7e18a6f9df341b0e7a8a935b2a0e
+      internalID: -1868074482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97b486068e6e014890cbec3de0b5da0
+      internalID: 135773058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_46
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 75
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f946ef4c6bba5474cb749ab28acf5fb6
+      internalID: -1218314479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_47
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 75
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181131e3cd579dc449d43bfed6b89fc1
+      internalID: 568529432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_48
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 75
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa32c3dd3a5162547ba2653dcfc09997
+      internalID: 1824446222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_49
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 75
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c2ce3952052104fa6ed8d995f03913
+      internalID: 1878898864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_50
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 75
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613ec3ad3e577224e8eaa93b36afb226
+      internalID: -1227168504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_51
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 75
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115e04c9e9e4233409b1b0b004d6f980
+      internalID: -1424400821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_52
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 75
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8eb0d4d3f9db8b45903ba7bcd8c0d60
+      internalID: -1393349790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_53
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 75
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc69635b85480d743adc1f072db33d07
+      internalID: -2041033479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6259f5d0a60214890dce0d5f5a3dda
+      internalID: 1067733595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_55
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 50
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd71019de1013164280ba23e3b57517d
+      internalID: 376384278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_56
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 50
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fd67b378b9ec74b92ca64106ed5033
+      internalID: -1956460671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_57
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 50
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27a11384273d0046a0a3cfb47004102
+      internalID: -1112031300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_58
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 50
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5814e16ad98cd4a4296e98486eaf0278
+      internalID: 1529999936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_59
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 50
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7eea3e291a4f2e4b98d805d91a99d8f
+      internalID: -1172589999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_60
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 50
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bf251fea1d86a4ba6092dce90f694a
+      internalID: -2136385921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_61
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 50
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a865e24dce3ccf745a77d24be53b30c5
+      internalID: 1329108937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_62
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 50
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ea8175c2fcdb1448f4e60a99e8df1f
+      internalID: -1319474151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9743ed8c15cff5845a3f8e2bb86312f5
+      internalID: -1767242810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_64
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 25
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a2cb7a71fc6cb48b0b7f165330256e
+      internalID: 1815282298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_65
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 25
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaea8c29bbe2e6469a0f9ad669ad40c
+      internalID: -1270403314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_66
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 25
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7add0d7cd5734764fa7a7b22658a6ad6
+      internalID: 686372123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_67
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 25
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfd22d1ddfe337458f3172a62f69f0b
+      internalID: -1360445913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_68
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 25
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10731604f27f8ba46927bbc14da74cb6
+      internalID: -625833880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_69
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 25
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cb79a88f68e374d9420295326df485
+      internalID: 25078395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_70
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 25
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79297e9e3a39fe438e0afc44a227e20
+      internalID: 1147819703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_71
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 25
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c6c96cc24d6e443a4e81c2b378e8e6
+      internalID: -1761685095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb35dc5bfd784044a85b62f7ab53bf19
+      internalID: 1894371107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_73
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43db7ec918cb38b499b2806cde10de8b
+      internalID: 1726819445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newprojectilesheettest_74
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc70a34abf316384eb69d40428fc1043
+      internalID: 1409925574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      newprojectilesheettest_0: -171977129
+      newprojectilesheettest_1: 310222220
+      newprojectilesheettest_10: 817672621
+      newprojectilesheettest_11: -1979054700
+      newprojectilesheettest_12: -1068793099
+      newprojectilesheettest_13: -1990928757
+      newprojectilesheettest_14: -611876235
+      newprojectilesheettest_15: -227608422
+      newprojectilesheettest_16: 1684052153
+      newprojectilesheettest_17: 435569988
+      newprojectilesheettest_18: -1917626600
+      newprojectilesheettest_19: 448094740
+      newprojectilesheettest_2: -953490945
+      newprojectilesheettest_20: -1319890451
+      newprojectilesheettest_21: -677151337
+      newprojectilesheettest_22: -369440142
+      newprojectilesheettest_23: -1306414713
+      newprojectilesheettest_24: -2045525624
+      newprojectilesheettest_25: -578450941
+      newprojectilesheettest_26: -180849084
+      newprojectilesheettest_27: 443464813
+      newprojectilesheettest_28: 1809249262
+      newprojectilesheettest_29: 1679561564
+      newprojectilesheettest_3: 1458820576
+      newprojectilesheettest_30: -232069659
+      newprojectilesheettest_31: 2060999204
+      newprojectilesheettest_32: 253826765
+      newprojectilesheettest_33: 414409178
+      newprojectilesheettest_34: -640922329
+      newprojectilesheettest_35: -1331027692
+      newprojectilesheettest_36: 708251977
+      newprojectilesheettest_37: 2123263358
+      newprojectilesheettest_38: 1402009596
+      newprojectilesheettest_39: 1191121733
+      newprojectilesheettest_4: 2144612224
+      newprojectilesheettest_40: 1944956254
+      newprojectilesheettest_41: -1777229532
+      newprojectilesheettest_42: 1259415880
+      newprojectilesheettest_43: -1432297356
+      newprojectilesheettest_44: -1868074482
+      newprojectilesheettest_45: 135773058
+      newprojectilesheettest_46: -1218314479
+      newprojectilesheettest_47: 568529432
+      newprojectilesheettest_48: 1824446222
+      newprojectilesheettest_49: 1878898864
+      newprojectilesheettest_5: 961064763
+      newprojectilesheettest_50: -1227168504
+      newprojectilesheettest_51: -1424400821
+      newprojectilesheettest_52: -1393349790
+      newprojectilesheettest_53: -2041033479
+      newprojectilesheettest_54: 1067733595
+      newprojectilesheettest_55: 376384278
+      newprojectilesheettest_56: -1956460671
+      newprojectilesheettest_57: -1112031300
+      newprojectilesheettest_58: 1529999936
+      newprojectilesheettest_59: -1172589999
+      newprojectilesheettest_6: 950536996
+      newprojectilesheettest_60: -2136385921
+      newprojectilesheettest_61: 1329108937
+      newprojectilesheettest_62: -1319474151
+      newprojectilesheettest_63: -1767242810
+      newprojectilesheettest_64: 1815282298
+      newprojectilesheettest_65: -1270403314
+      newprojectilesheettest_66: 686372123
+      newprojectilesheettest_67: -1360445913
+      newprojectilesheettest_68: -625833880
+      newprojectilesheettest_69: 25078395
+      newprojectilesheettest_7: -1590438520
+      newprojectilesheettest_70: 1147819703
+      newprojectilesheettest_71: -1761685095
+      newprojectilesheettest_72: 1894371107
+      newprojectilesheettest_73: 1726819445
+      newprojectilesheettest_74: 1409925574
+      newprojectilesheettest_8: 1749065717
+      newprojectilesheettest_9: -2045373209
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

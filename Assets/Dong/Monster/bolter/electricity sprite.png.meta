@@ -1,0 +1,1200 @@
+fileFormatVersion: 2
+guid: 11666c90addc76e4899a60f82078e579
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: electricity sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183b376680e08934780b6b142bd98591
+      internalID: 1129311548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 298
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a819a539a679f8c4f8b5de108fb69b16
+      internalID: -1725636253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 298
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92963b40500eb4e4a88acf92802f0763
+      internalID: 1704014618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_3
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 298
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666907c8cf56c61468ee57b77672cd38
+      internalID: 1026539355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_4
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 298
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073d2dc6dadc9444fa0aca765de14aac
+      internalID: -1296962421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_5
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 298
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84e24656d9bdff4cb389bc0ba303e7f
+      internalID: -889499769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_6
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 298
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88de1a045d31109498d774800192c7d8
+      internalID: -949879104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 298
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40d94eb511609d428918e11924c7aed
+      internalID: 991006303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_8
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 298
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db82e5e6fd34ae4ea1267f1e422b4f0
+      internalID: 813748227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 298
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff9b633320de1e4abe74f2349baa9cf
+      internalID: -829580821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_10
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 298
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e450cbccea8e344842cdcd130f706d
+      internalID: -324858624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 298
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f699cd95f7fb7549a0a4fd2361c44c8
+      internalID: -683066489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_12
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 298
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9632bd87695b545978a5e7c2031890
+      internalID: 1871116377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_13
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 298
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0171306bf64cbab48ab4347907a64f37
+      internalID: -1248398801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_14
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 298
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab619fc47852b041a22edfc72748182
+      internalID: 1318432385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_15
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 298
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59809f0b9bc1e1a4b828a0d723e2db1b
+      internalID: 949897109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03515edc089dc834b903568a81071196
+      internalID: -1256267977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 149
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59256e9b6706ce9439f6146366eaca5d
+      internalID: 1687255918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_18
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 149
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a3afe5dd6194c419dd5f702ca240bf
+      internalID: 482140366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_19
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 149
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3adee476ea1734092949e31a0bb703
+      internalID: -2121333786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_20
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 149
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e25996609394b4f95ac7899e75b150
+      internalID: -54678458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_21
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 149
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d988756b111a24eb0d4fab8e014f2a
+      internalID: 614629872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_22
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 149
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1676e41786741734ea3ebf6d693efdf0
+      internalID: 8280501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_23
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 149
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2641503c8807a5418926f4eb399ebbf
+      internalID: -1712192767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_24
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 149
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8d8615d78e6d24eb77f4836cae1a49
+      internalID: -974651692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 149
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5280310e2de4d1a4781f667ac1606413
+      internalID: -272479284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_26
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 149
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022f3e76a5893e04f9db5c0239525289
+      internalID: 676181338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_27
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 149
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59475d4b913a0804fbe9fe10c2f558ec
+      internalID: -874065849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_28
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 149
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f283de67042289445805adefcfacf410
+      internalID: -1321910618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_29
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 149
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c644fe236cac93e4180a14f966788c34
+      internalID: -743147855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_30
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 149
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76063c692843414d8e2c892e50965c6
+      internalID: -428378327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_31
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 149
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75b8ce7e21223b4db55f2c42c097da8
+      internalID: 550449660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd4c9947994f6e47afbf3fb06dc5fbb
+      internalID: -1953770902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1488c4a47be3eff4e9fec38e5933bf2a
+      internalID: 1016553769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_34
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1adb45d728d66443a7fd5e834ff4579
+      internalID: -2010489611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_35
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f332b3c6379ca0418dfc51028f13906
+      internalID: -1252641151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_36
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9048c580c709934189d98285478ed73
+      internalID: 17711964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_37
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d3a40a3d6e1ac4b9cb2c9d1ba413b5
+      internalID: -1942822072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_38
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 0
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dcfe3796913c841ac98691e15d7440
+      internalID: -312483616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_39
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 0
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b442871f3e7c83a4db2e79fc9027e940
+      internalID: 1918604932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_40
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 0
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2c74da77eb02f41a082876d17d99b1
+      internalID: 664109061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_41
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 0
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f1fcab542455b4cb33eb6b3e60fd91
+      internalID: -147604975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_42
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8654457d62056574284575ff9e310f04
+      internalID: 221719789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_43
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 0
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc1fc8bb07e1254f98ddf2375b29a23
+      internalID: -465876539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_44
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 0
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b0ad7eb2637174baf4488a3ab66d2e
+      internalID: 1343495781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_45
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 0
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2e3da178b09ec4b9ebe47c8d44a814
+      internalID: 1461038019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity sprite_46
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 0
+        width: 159
+        height: 149
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c626c7ed83bd584bbc2293f18b01c6b
+      internalID: 1174196755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      electricity sprite_0: 1129311548
+      electricity sprite_1: -1725636253
+      electricity sprite_10: -324858624
+      electricity sprite_11: -683066489
+      electricity sprite_12: 1871116377
+      electricity sprite_13: -1248398801
+      electricity sprite_14: 1318432385
+      electricity sprite_15: 949897109
+      electricity sprite_16: -1256267977
+      electricity sprite_17: 1687255918
+      electricity sprite_18: 482140366
+      electricity sprite_19: -2121333786
+      electricity sprite_2: 1704014618
+      electricity sprite_20: -54678458
+      electricity sprite_21: 614629872
+      electricity sprite_22: 8280501
+      electricity sprite_23: -1712192767
+      electricity sprite_24: -974651692
+      electricity sprite_25: -272479284
+      electricity sprite_26: 676181338
+      electricity sprite_27: -874065849
+      electricity sprite_28: -1321910618
+      electricity sprite_29: -743147855
+      electricity sprite_3: 1026539355
+      electricity sprite_30: -428378327
+      electricity sprite_31: 550449660
+      electricity sprite_32: -1953770902
+      electricity sprite_33: 1016553769
+      electricity sprite_34: -2010489611
+      electricity sprite_35: -1252641151
+      electricity sprite_36: 17711964
+      electricity sprite_37: -1942822072
+      electricity sprite_38: -312483616
+      electricity sprite_39: 1918604932
+      electricity sprite_4: -1296962421
+      electricity sprite_40: 664109061
+      electricity sprite_41: -147604975
+      electricity sprite_42: 221719789
+      electricity sprite_43: -465876539
+      electricity sprite_44: 1343495781
+      electricity sprite_45: 1461038019
+      electricity sprite_46: 1174196755
+      electricity sprite_5: -889499769
+      electricity sprite_6: -949879104
+      electricity sprite_7: 991006303
+      electricity sprite_8: 813748227
+      electricity sprite_9: -829580821
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

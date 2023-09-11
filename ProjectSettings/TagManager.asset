@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monster
+  - Dome
+  - Mineral
+  - HardTile
+  - Pet
+  - RedJem
+  - BlueJem
+  - GreenJem
+  - Weapon
+  - Stash
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Under
+  - Water
+  - UI
+  - Ground
+  - Mineral
+  - Wall
+  - Player
+  - BG
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2472571785
+    locked: 0
+  - name: Ground
+    uniqueID: 4189112419
+    locked: 0
+  - name: Player
+    uniqueID: 2904909813
+    locked: 0
+  - name: Jem
+    uniqueID: 896121767
+    locked: 0
+  - name: UI
+    uniqueID: 1001210037
+    locked: 0
