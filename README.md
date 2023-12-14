@@ -22,7 +22,7 @@ Dome 을 업그레이드 해야만하며, 방어와 채광을 동시에 진행�
 * 주변 광물 감지 및 채광
   * 펫은 Dome에서 출발할때마다 새로운 목적지를 얻고, 그 위치로 최단거리로 나아갑니다.
   * 이동중에 광물이 레이어에 걸리면 채광합니다. </br>
-  ![ezgif-5-a172fb46db](https://github.com/21jae/DomeKeeper/assets/90013449/c053abf6-e661-441d-8a30-362b57695f23) </br>
+  ![ezgif-5-a172fb46db](https://github.com/21jae/DomeKeeper/assets/90013449/ec74fbcd-50bb-4c00-b235-c638f4fb0fb3) </br>
   
 * 최단거리 길찾기 및 복귀 </br>
   * 광물 보유수가 최대치라면, Dome을 최단거리 루트로 돌아옵니다. </br>
