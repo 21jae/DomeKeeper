@@ -18,9 +18,9 @@ Dome 을 업그레이드 해야만하며, 방어와 채광을 동시에 진행�
 </br>
 
 ## 담당한 기능
-* 주변 광물 감지 및 채광
+* [PenEntity](https://github.com/21jae/DomeKeeper/blob/master/Assets/Wonjae_Folder/Scripts/Pet/PetEntity.cs): 주변 광물 감지 및 채광
   * 펫은 Dome에서 출발할때마다 새로운 목적지를 얻고, 그 위치로 최단거리로 나아갑니다.
-  * 이동중에 광물이 레이어에 걸리면 채광합니다. </br>
+  * [NavigationController2D](https://github.com/21jae/DomeKeeper/blob/master/Assets/Wonjae_Folder/Scripts/Pet/NavigationController2D.cs): 이동중에 광물이 레이어에 걸리면 채광합니다. </br>
   ![ezgif-5-a172fb46db](https://github.com/21jae/DomeKeeper/assets/90013449/ec74fbcd-50bb-4c00-b235-c638f4fb0fb3) </br>
   
 * 최단거리 길찾기 및 복귀 </br>
