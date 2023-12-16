@@ -10,11 +10,12 @@ public class NavigationController2D : MonoBehaviour
 
     Pathfinder<Vector2> pathfinder;
     [SerializeField] LayerMask obstacles;
-    [SerializeField] bool searchShortcut = false;
-    [SerializeField] bool snapToGrid = false;
+
     List<Vector2> path;
     List<Vector2> pathLeftToGo = new List<Vector2>();
+
     [SerializeField] bool drawDebugLines;
+    bool snapToGrid = false;
 
     Rigidbody2D rb;
     CircleCollider2D circleColl;
