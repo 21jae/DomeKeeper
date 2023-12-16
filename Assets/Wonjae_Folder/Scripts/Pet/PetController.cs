@@ -1,11 +1,3 @@
-using System.Collections;
-using TMPro;
-using Unity.VisualScripting;
-using UnityEngine;
-using UnityEngine.AI;
-using UnityEngine.Rendering.Universal;
-using UnityEngine.SocialPlatforms.Impl;
-
 public class PetController : PetEntity
 {
     protected override void Start()
